@@ -1,0 +1,8 @@
+#navbar {
+    text-align:center;
+}
+
+#navbar li{
+    display: inline-block;
+    background-color: red;
+}
